@@ -16,3 +16,8 @@ Gemfile.lock
 
 # Ignore objects directory to avoid committing binary files (other than demo files)
 # if you would like to commit your objects to github, delete the line below!
+
+# Python pipeline scripts (data prep, not part of the built site)
+scripts/.venv/
+scripts/__pycache__/
+scripts/whisper_cache/
