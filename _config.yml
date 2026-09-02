@@ -12,20 +12,20 @@ url:
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/oralhistoryasdata/template
+source-code: https://github.com/mariamyi/SOF-oral-histories
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as Data Template
+title: Souls on Fire
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Gospel Traditions and Community Organizing in Pulaski, VA
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web."
+description: "Souls on Fire documents Black Appalachian gospel music, churches, and community activism in Pulaski County, VA, through oral history interviews collected by the Calfee Community and Cultural Center."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: dcnb
+author: Calfee Community and Cultural Center
 
 ##########
 # COLLECTION SETTINGS
