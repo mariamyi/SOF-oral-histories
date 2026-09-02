@@ -107,7 +107,7 @@ def _out_has_existing_tags(out_path):
         reader = csv.DictReader(f)
         if reader.fieldnames is None or "tags" not in reader.fieldnames:
             return False
-        return any(row.get("tags", "").strip() for row in reader)
+        return any((row.get("tags") or "").strip() for row in reader)
 
 
 def main():
